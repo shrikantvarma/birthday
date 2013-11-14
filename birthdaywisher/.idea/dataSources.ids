@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Django default" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="ad79ba6f-34b6-4e73-b83f-8f4bd2da9c3e">
+    <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+    <jdbc-url>jdbc:mysql:///Applications/djangostack-1.4.8-0/mysql/tmp/mysql.sock:3306/birthdaywisher</jdbc-url>
+    <user-name>root</user-name>
+    <user-password>dfdadfcbdfd9dfd9dfdddfc5dfd8dfce</user-password>
+    <libraries/>
+  </data-source>
+</component>
