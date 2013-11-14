@@ -2,18 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f7ce00b-5c0e-402b-9ade-27f8ade2fbd6" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../env/lib/python2.7/orig-prefix.txt" afterPath="$PROJECT_DIR$/../env/lib/python2.7/orig-prefix.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../env/bin/python" afterPath="$PROJECT_DIR$/../env/bin/python" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../env/lib/python2.7/distutils/__init__.py" afterPath="$PROJECT_DIR$/../env/lib/python2.7/distutils/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../env/lib/python2.7/site.py" afterPath="$PROJECT_DIR$/../env/lib/python2.7/site.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../env/bin/activate" afterPath="$PROJECT_DIR$/../env/bin/activate" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../env/bin/activate.csh" afterPath="$PROJECT_DIR$/../env/bin/activate.csh" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../env/lib/python2.7/site-packages/easy-install.pth" afterPath="$PROJECT_DIR$/../env/lib/python2.7/site-packages/easy-install.pth" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../env/bin/activate.fish" afterPath="$PROJECT_DIR$/../env/bin/activate.fish" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../env/lib/python2.7/orig-prefix.txt" afterPath="$PROJECT_DIR$/../env/lib/python2.7/orig-prefix.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../env/bin/pip-2.7" afterPath="$PROJECT_DIR$/../env/bin/pip-2.7" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../env/bin/easy_install-2.7" afterPath="$PROJECT_DIR$/../env/bin/easy_install-2.7" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../env/bin/pip" afterPath="$PROJECT_DIR$/../env/bin/pip" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../env/bin/easy_install" afterPath="$PROJECT_DIR$/../env/bin/easy_install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../env/lib/python2.7/distutils/__init__.py" afterPath="$PROJECT_DIR$/../env/lib/python2.7/distutils/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../env/bin/pip" afterPath="$PROJECT_DIR$/../env/bin/pip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../env/bin/pip-2.7" afterPath="$PROJECT_DIR$/../env/bin/pip-2.7" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../env/bin/activate.fish" afterPath="$PROJECT_DIR$/../env/bin/activate.fish" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../env/lib/python2.7/site.py" afterPath="$PROJECT_DIR$/../env/lib/python2.7/site.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../env/bin/activate" afterPath="$PROJECT_DIR$/../env/bin/activate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../env/bin/easy_install-2.7" afterPath="$PROJECT_DIR$/../env/bin/easy_install-2.7" />
     </list>
     <ignored path="birthdaywisher.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,12 +36,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="settings.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/birthdaywisher/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="45" selection-start="2062" selection-end="2062" vertical-scroll-proportion="-2.0454545" vertical-offset="765" max-vertical-offset="2865">
+            <state line="190" column="0" selection-start="6529" selection-end="6529" vertical-scroll-proportion="0.8394495" vertical-offset="2301" max-vertical-offset="2955">
               <folding>
                 <element signature="e#46#100#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Talent360/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="0" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0" vertical-offset="4568" max-vertical-offset="5235">
+              <folding>
+                <element signature="e#40#54#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -50,10 +61,8 @@
       <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/birthdaywisher/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="0" selection-start="1068" selection-end="1068" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
-              <folding>
-                <element signature="e#0#51#0" expanded="true" />
-              </folding>
+            <state line="31" column="0" selection-start="1068" selection-end="1068" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="555">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -61,18 +70,16 @@
       <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/birthdaywisher/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="42" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-              <folding>
-                <element signature="e#24#81#0" expanded="true" />
-              </folding>
+            <state line="9" column="42" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="255">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/birthdaywisher/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="260" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="643">
+            <state line="0" column="0" selection-start="0" selection-end="260" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
               <folding />
             </state>
           </provider>
@@ -103,8 +110,9 @@
         <option value="$PROJECT_DIR$/../../tal/userdetails/views.py" />
         <option value="$PROJECT_DIR$/birthdaywisher/views.py" />
         <option value="$PROJECT_DIR$/birthdaywisher/urls.py" />
-        <option value="$PROJECT_DIR$/birthdaywisher/settings.py" />
         <option value="$PROJECT_DIR$/birthdaywisher/templates/index.html" />
+        <option value="$PROJECT_DIR$/../../Talent360/settings.py" />
+        <option value="$PROJECT_DIR$/birthdaywisher/settings.py" />
       </list>
     </option>
   </component>
@@ -140,6 +148,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -214,19 +223,18 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -450,13 +458,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/birthdaywisher/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Applications/djangostack-1.4.8-0/python/lib/python2.7/site-packages/django_facebook/static/django_facebook/css/facebook.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810" />
@@ -464,104 +465,65 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4965">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4965" />
       </provider>
     </entry>
     <entry file="file:///Applications/djangostack-1.4.8-0/python/lib/python2.7/site-packages/django_facebook/templates/django_facebook/connect.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="667">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="667" />
       </provider>
     </entry>
     <entry file="file:///Applications/djangostack-1.4.8-0/python/lib/python2.7/site-packages/django_facebook/auth_backends.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2055">
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2055" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../tal/userdetails/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="0" selection-start="1266" selection-end="1318" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="33405">
-          <folding />
-        </state>
+        <state line="37" column="0" selection-start="1266" selection-end="1318" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="33405" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/birthdaywisher/testfacebookgraph.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="494" selection-end="494" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="1410">
-          <folding />
-        </state>
+        <state line="14" column="0" selection-start="494" selection-end="494" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="1410" />
       </provider>
     </entry>
     <entry file="file:///Applications/djangostack-1.4.8-0/python/lib/python2.7/site-packages/facebook.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="141" column="16" selection-start="4857" selection-end="4861" vertical-scroll-proportion="0.0" vertical-offset="1965" max-vertical-offset="9090">
-          <folding />
-        </state>
+        <state line="141" column="16" selection-start="4857" selection-end="4861" vertical-scroll-proportion="0.0" vertical-offset="1965" max-vertical-offset="9090" />
       </provider>
     </entry>
     <entry file="file:///Applications/djangostack-1.4.8-0/python/lib/python2.7/site-packages/django_facebook/example_views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2595">
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2595" />
       </provider>
     </entry>
     <entry file="file:///Applications/djangostack-1.4.8-0/python/lib/python2.7/site-packages/django_facebook/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="414" selection-end="414" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1050">
-          <folding />
-        </state>
+        <state line="13" column="0" selection-start="414" selection-end="414" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1050" />
       </provider>
     </entry>
     <entry file="file:///Applications/djangostack-1.4.8-0/python/lib/python2.7/site-packages/django_facebook/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="125" column="32" selection-start="5009" selection-end="5009" vertical-scroll-proportion="3.0290792" vertical-offset="0" max-vertical-offset="2160">
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="125" column="32" selection-start="5009" selection-end="5009" vertical-scroll-proportion="3.0290792" vertical-offset="0" max-vertical-offset="2160" />
       </provider>
     </entry>
     <entry file="file:///Applications/djangostack-1.4.8-0/python/lib/python2.7/site-packages/django_facebook/templates/django_facebook/example.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="18" selection-start="560" selection-end="560" vertical-scroll-proportion="-3.1666667" vertical-offset="2250" max-vertical-offset="5940">
-          <folding />
-        </state>
+        <state line="17" column="18" selection-start="560" selection-end="560" vertical-scroll-proportion="-3.1666667" vertical-offset="2250" max-vertical-offset="5940" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/birthdaywisher/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="42" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-          <folding>
-            <element signature="e#24#81#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/birthdaywisher/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="45" selection-start="2062" selection-end="2062" vertical-scroll-proportion="-2.0454545" vertical-offset="765" max-vertical-offset="2865">
-          <folding>
-            <element signature="e#46#100#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/birthdaywisher/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="0" selection-start="1068" selection-end="1068" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -569,6 +531,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="260" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="643">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Talent360/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0" vertical-offset="4568" max-vertical-offset="5235">
+          <folding>
+            <element signature="e#40#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/birthdaywisher/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="190" column="0" selection-start="6529" selection-end="6529" vertical-scroll-proportion="0.8394495" vertical-offset="2301" max-vertical-offset="2955">
+          <folding>
+            <element signature="e#46#100#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
